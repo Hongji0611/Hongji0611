@@ -1,4 +1,27 @@
-### Hi there 👋
+### Hi there. I'm Hong 👋
+
+
+
+##### 🔭 I’m currently working on
+- I'm working as IT Product Owner  
+
+#
+
+##### 🌱 I’m currently learning
+- Android Kotlin
+- React Navtive
+- MySQL
+- Javascript  
+
+#
+
+##### 💬 Ask me about
+- From Republic of Korea.
+- I graduated from Konkuk University.
+- I listened to 29,112 minutes of music this year.
+
+
+
 
 <!--
 **Hongji0611/Hongji0611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
