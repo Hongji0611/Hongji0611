@@ -1,10 +1,5 @@
 ### Hi there. I'm Hong 👋
 
-
-
-##### 🔭 I’m currently working on
-- I'm working as IT Product Owner  
-
 #
 
 ##### 🌱 I’m currently learning
